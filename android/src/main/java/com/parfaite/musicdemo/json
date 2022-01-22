@@ -1,0 +1,36 @@
+[
+    {
+        "size":10805746,
+        "duration":265561,
+        "name":"001 - 小幸運.mp3",
+        "uri":"content://media/external/video/media/33"
+    },
+    {
+        "size":8797604,
+        "duration":217757,
+        "name":"002 - 多遠都要在一起.mp3",
+        "uri":"content://media/external/video/media/34"
+    },
+    {
+        "size":5604537,
+        "duration":232385,
+        "name":"003 - 愛不需要裝乖 (feat. 王詩安 Diana).mp3",
+        "uri":"content://media/external/video/media/35"
+    },
+    {"size":9500501,"duration":234710,"name":"004 - 別說沒愛過.mp3","uri":"content://media/external/video/media/36"},
+    {"size":10183748,"duration":250932,"name":"005 - Love More.mp3","uri":"content://media/external/video/media/37"},
+    {"size":12121424,"duration":298397,"name":"006 - 可惜沒如果.mp3","uri":"content://media/external/video/media/38"},
+    {"size":7080678,"duration":222589,"name":"007 - 我們青春.mp3","uri":"content://media/external/video/media/39"},
+    {"size":10551702,"duration":258926,"name":"008 - 泡沫.mp3","uri":"content://media/external/video/media/40"},
+    {"size":11550849,"duration":281234,"name":"009 - 我還是愛著你.mp3","uri":"content://media/external/video/media/41"},
+    {"size":12422925,"duration":306390,"name":"010 - 女孩.mp3","uri":"content://media/external/video/media/42"},
+    {"size":10102459,"duration":245943,"name":"011 - 妳說他.mp3","uri":"content://media/external/video/media/43"},
+    {"size":10678212,"duration":261407,"name":"012 - 喜劇之王.mp3","uri":"content://media/external/video/media/44"},
+    {"size":10581259,"duration":258508,"name":"013 - 以後別做朋友.mp3","uri":"content://media/external/video/media/45"},
+    {"size":11485588,"duration":281861,"name":"014 - 缺口.mp3","uri":"content://media/external/video/media/46"},
+    {"size":11065824,"duration":273502,"name":"015 - 李白.mp3","uri":"content://media/external/video/media/47"},
+    {"size":8050765,"duration":282149,"name":"016 - 忘記擁抱 - 電影《234說愛你》主題曲.mp3","uri":"content://media/external/video/media/31"},
+    {"size":10100601,"duration":244663,"name":"017 - 孤獨的總和.mp3","uri":"content://media/external/video/media/48"},
+    {"size":11643919,"duration":281469,"name":"018 - 聽見下雨的聲音.mp3","uri":"content://media/external/video/media/49"},
+    {"size":8050765,"duration":282149,"name":"ALin.mp3","uri":"content://media/external/video/media/32"}
+]
